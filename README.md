@@ -106,17 +106,6 @@ Bu proje ile öğrenilen konular:
 - ✅ Cross-browser uyumluluk
 - ✅ Web accessibility temel kuralları
 
-## 📸 Ekran Görüntüleri
-
-### Desktop Görünümü
-*Buraya desktop ekran görüntüsü ekleyebilirsiniz*
-
-### Mobil Görünümü
-*Buraya mobil ekran görüntüsü ekleyebilirsiniz*
-
-### Tablet Görünümü
-*Buraya tablet ekran görüntüsü ekleyebilirsiniz*
-
 ## 🎯 Öğrenilen Dersler
 
 1. **HTML Semantiği** - Doğru HTML öğe kullanımı
