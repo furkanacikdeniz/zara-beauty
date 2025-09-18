@@ -35,7 +35,6 @@ zara-beauty/
 ├── index.html          # Ana sayfa
 ├── css/
 │   ├── style.css       # Ana stylesheet
-│   └── responsive.css  # Responsive tasarım (eğer varsa)
 ├── js/
 │   └── script.js       # JavaScript dosyası
 ├── images/
